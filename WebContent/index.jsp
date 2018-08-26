@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="">
 </head>
 <body>
-   	<a href="TestconnectionForward">View</a>
+   	<a href="TestconnectionForward">Vui View</a>
 </body>
 </html>
